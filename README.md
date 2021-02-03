@@ -14,8 +14,6 @@ TypeScript, React.js, React Native, Redux, Mobx, axios, fetch
 
 ![My Architecture](./_README/my-layer-circle.png)
 
-출처: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
-
 다음은 클린 아키텍처의 핵심 규칙입니다.
 
 1. 소프트웨어를 계층별로 관심사를 분리합니다.
